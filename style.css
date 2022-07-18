@@ -41,7 +41,7 @@ body {
   opacity: 1;
   transition: ease 0.5s;
   background-color: hsl(178, 100%, 40%);
-  background-image: url(/images/icon-view.svg);
+  background-image: url(./images/icon-view.svg);
   background-repeat: no-repeat;
   background-position: center;
 }

@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [ https://m0lt0.github.io/Nft-preview-card/](https://your-live-site-url.com)
+- Solution URL:(https://your-solution-url.com)
+- Live Site URL: (https://m0lt0.github.io/Nft-preview-card/)
 
 ### Built with
 
